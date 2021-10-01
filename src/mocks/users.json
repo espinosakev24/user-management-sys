@@ -1,0 +1,28 @@
+[
+  {
+    "firstSurname": "Espinosa",
+    "secondSurname": "Zapata",
+    "firstName": "Kevin",
+    "employmentCountry": "Colombia",
+    "idType": "CC",
+    "idNumber": "1028036928",
+    "email": "kevinespinosazapata@gmail.com",
+    "state": "activo",
+    "admissionDate": "2021-02-08T05:00:00.000Z",
+    "createdAt": "2021-10-01T21:58:35.126Z",
+    "updatedAt": "2021-10-01T21:58:35.126Z"
+  },
+  {
+    "firstSurname": "Reñao",
+    "secondSurname": "Meow",
+    "firstName": "Cat",
+    "employmentCountry": "Colombia",
+    "idType": "CC",
+    "idNumber": "1a5dca34",
+    "email": "cat@gmail.com",
+    "state": "activo",
+    "admissionDate": "2021-02-08T05:00:00.000Z",
+    "createdAt": "2021-10-01T21:58:35.126Z",
+    "updatedAt": "2021-10-01T21:58:35.126Z"
+  }
+]
